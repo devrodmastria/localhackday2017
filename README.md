@@ -9,3 +9,4 @@ Smartwatch links:
 Driver for USB to Arduino adapter: http://www.ftdichip.com/Drivers/VCP.htm
 Smartwatch tutorial: https://tinycircuits.com/blogs/learn/158289927-tinyscreen-smartwatch-tutorial
 Arduino IDE: https://www.arduino.cc/en/Main/Software
+Setup TinyDuino on Arduino IDE: https://tinycircuits.com/blogs/learn/124803655-tinyduino-setup-tutorial
